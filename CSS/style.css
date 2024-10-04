@@ -1,0 +1,295 @@
+/* 
+    Created on : May 14, 2020, 6:59:10 PM
+    Author     : chamuditha
+*/
+.bimg{
+    background-image: url('../imgs/1.jpeg');
+    background-size: cover;
+        
+}
+
+.sb1{
+    border:solid;
+    display: inline-block;
+    border-radius: 100%;
+    height: 220px;
+    width:220px;
+    font-size:35px;
+    cursor:pointer;
+    color: white;
+    outline: none;
+    font-weight: bold;
+    background-color: transparent;
+    border-color:#343a40;
+   
+}
+.sb1:hover{
+    background-color:snow;
+    color:gray;
+    border-color:white;
+}
+    
+.sb1-dvi{
+    margin-top:10px;
+    height:500px;
+    width:50%;
+}
+.dvi-1{
+    margin-top:50px;
+    height:400px;
+    width:50%;
+    
+}
+.dv1-2{
+    margin-left:25%;
+    width:50%;
+    opacity:75%
+}
+.dvi-3{
+    margin-top:50px;
+    height:1500px;
+    width:50%;
+    
+}
+
+.whi3{
+    background-color: snow;
+}
+.r3d{
+    background-color: #ff0302;
+}
+.blu3{
+    background-color: #007bff;
+}
+.p0rpl3{
+    background-color: #e306fc;
+}
+.gr39{
+    background-color: #8dff01;
+}
+.p1{
+    background-image: url('../imgs/bacG/1.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.p2{
+    background-image: url('../imgs/bacG/2.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.p3{
+    background-image: url('../imgs/bacG/3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.p4{
+    background-image: url('../imgs/bacG/5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.p5{
+    background-image: url('../imgs/bacG/4.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ .l0g0{
+    width:150px;
+    height:150px;
+    background-image:url('../imgs/logo.png');
+    background-size: contain;
+    
+    
+} 
+.sp9{
+    margin-left:200px;
+}
+
+.cph1{
+    font-size: 40px
+}
+.im5{
+    background-image: url('../imgs/bacG/6.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.evn1{
+    background-image: url('../imgs/3vn8/3vn8_1.jpg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.evn2{
+    background-image: url('../imgs/3vn8/3vn8_2.png');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.evn3{
+    background-image: url('../imgs/3vn8/3vn8_3.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.evn4{
+    background-image: url('../imgs/3vn8/3vn8_4.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.evn5{
+    background-image: url('../imgs/3vn8/3vn8_5.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.evn6{
+    background-image: url('../imgs/3vn8/3vn8_6.jpg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-1{
+    background-image: url('../imgs/bbl/bb_1.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-2{
+    background-image: url('../imgs/bbl/bb_2.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-3{
+    background-image: url('../imgs/bbl/bb_3.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-4{
+    background-image: url('../imgs/bbl/bb_4.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-5{
+    background-image: url('../imgs/bbl/bb_5.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-6{
+    background-image: url('../imgs/bbl/bb_6.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-7{
+    background-image: url('../imgs/bbl/bb_7.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-8{
+    background-image: url('../imgs/bbl/bb_8.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bb-9{
+    background-image: url('../imgs/bbl/bb_9.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    
+}
+.cland{
+    background-image: url('../imgs/bacG/cland.gif');
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.shed{
+    background-image: url('../imgs/Daily.gif');
+    background-repeat:no-repeat;
+    background-size: contain;
+    
+}
+.shedh{
+    background-image: url('../imgs/Holidays.gif');
+    background-repeat:no-repeat;
+    background-size: contain;
+    
+}
+.bbing-1{
+    background-image: url('../imgs/bbing/bbing-1.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bbing-2{
+    background-image: url('../imgs/bbing/bbing-2.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bbing-3{
+    background-image: url('../imgs/bbing/bbing-3.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bbing-4{
+    background-image: url('../imgs/bbing/bbing-4.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bbing-5{
+    background-image: url('../imgs/bbing/bbing-5.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bbing-6{
+    background-image: url('../imgs/bbing/bbing-6.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.bbing-7{
+    background-image: url('../imgs/bbing/bbing-7.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.ar-1{
+    background-image: url('../imgs/ar/ar-1.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.ar-2{
+    background-image: url('../imgs/ar/ar-2.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.ar-3{
+    background-image: url('../imgs/ar/ar-3.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.ar-4{
+    background-image: url('../imgs/ar/ar-4.png');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.ar-5{
+    background-image: url('../imgs/ar/ar-5.png');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.yo-1{
+    background-image: url('../imgs/yo/yo-1.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.yo-2{
+    background-image: url('../imgs/yo/yo-2.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.yo-3{
+    background-image: url('../imgs/yo/yo-3.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.yo-4{
+    background-image: url('../imgs/yo/yo-4.jpeg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.yo-5{
+    background-image: url('../imgs/yo/yo-5.jpg');
+    background-repeat:no-repeat;
+    background-size: contain;
+}
