@@ -28,7 +28,7 @@ development:
   database: gym_project_development
   pool: 5
   username: gh0s8
-  password: Pasindu#12236
+  # password: 
   host: localhost
 
   # The specified database role being used to connect to PostgreSQL.
