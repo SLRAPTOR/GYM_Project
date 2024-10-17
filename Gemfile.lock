@@ -111,6 +111,8 @@ GEM
     jbuilder (2.13.0)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
+    jsbundling-rails (1.3.1)
+      railties (>= 6.0.0)
     json (2.7.2)
     language_server-protocol (3.17.0.3)
     logger (1.6.1)
@@ -295,6 +297,7 @@ DEPENDENCIES
   devise (~> 4.9, >= 4.9.4)
   importmap-rails
   jbuilder
+  jsbundling-rails (~> 1.3)
   pg (~> 1.1)
   puma (>= 5.0)
   rails (~> 7.2.1)
