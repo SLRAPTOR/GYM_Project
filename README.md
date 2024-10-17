@@ -1,13 +1,24 @@
+# README
 
-# Online GYM Web Application
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Welcome!, a comprehensive gym website designed to empower fitness enthusiasts and help them achieve their health goals. This repository contains the source code and resources for building a dynamic and user-friendly platform that connects gym-goers with workouts, nutrition plans, and community support.
+Things you may want to cover:
 
+* Ruby version
 
-## 🚀 About Me
-Hello its gh0s8 
-I'm a full stack developer...
+* System dependencies
 
+* Configuration
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
